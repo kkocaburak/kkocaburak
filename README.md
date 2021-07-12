@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak.</h1>
-<h3 align="center">A passionate android developer from Turkey.</h3>
+<h3 align="center">A passionate mobile developer from Turkey.</h3>
 
-- 🔭 I’m currently working on **Village Defend 2D**
-
-- 🌱 I’m currently learning **Android Studio, Unity**
+- 🌱 I’m currently learning **Android Studio, Xcode, Unity**
 
 - 📫 How to reach me **kkocaburak@gmail.com**
 
