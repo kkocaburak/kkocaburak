@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak.</h1>
 <h3 align="center">A passionate mobile developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **Android Studio, Xcode, Unity**
+- 🌱 I’m currently working on **Android Studio, Xcode**
 
 - 📫 How to reach me **kkocaburak@gmail.com**
 
